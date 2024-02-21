@@ -1,3 +1,10 @@
 # ninja log v5
-1	523	7301923618575098	CMakeFiles/Ordenamiento_por_Insercion_y_Mezcla_c__.dir/main.cpp.obj	73202aa99d7a3fc2
-526	847	7301923621788949	Ordenamiento_por_Insercion_y_Mezcla_c__.exe	14c42f4c782f7aa
+3	442	7301958213437369	CMakeFiles/Ordenamiento_por_Insercion_y_Mezcla_c__.dir/main.cpp.obj	299e81e40a396f2b
+572	860	7301958754838894	Ordenamiento_por_Insercion_y_Mezcla_c__.exe	bbee5f84e8222e5e
+4	1276	7301961003812341	build.ninja	c16baa883183b11b
+9	526	7301960426029969	CMakeFiles/Ordenamiento_por_Insercion_y_Mezcla_c__.dir/ordenamientoPorMezcla.cpp.obj	f4cac7ada2e3530e
+4	474	7301960425509850	CMakeFiles/Ordenamiento_por_Insercion_y_Mezcla_c__.dir/ordenamientoPorInsercion.cpp.obj	731e6b14584c1d0
+2	225	7301961003812341	build.ninja	c16baa883183b11b
+4	112	7301961005972809	Ordenamiento_por_Insercion_y_Mezcla_c__.exe	bbee5f84e8222e5e
+4	880	7301963001316167	CMakeFiles/Ordenamiento_por_Insercion_y_Mezcla_c__.dir/ordenamientoPorInsercion.cpp.obj	731e6b14584c1d0
+880	1477	7301963008775317	Ordenamiento_por_Insercion_y_Mezcla_c__.exe	bbee5f84e8222e5e
