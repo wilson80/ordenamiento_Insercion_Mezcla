@@ -1,0 +1,3 @@
+C:/Users/Jonwil/Desktop/ordenamiento_Insercion_Mezcla/cmake-build-debug/CMakeFiles/Ordenamiento_por_Insercion_y_Mezcla_c__.dir
+C:/Users/Jonwil/Desktop/ordenamiento_Insercion_Mezcla/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Jonwil/Desktop/ordenamiento_Insercion_Mezcla/cmake-build-debug/CMakeFiles/rebuild_cache.dir
